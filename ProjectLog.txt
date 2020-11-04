@@ -5,3 +5,6 @@ Today i got feed back on my project proposal form Paul and was informed it all l
 
 30/10/2020
 Today is the dealline for our project proposal. I showed my propsoal to Brian today and got some feed back on my architecture diagram. After making some changes to my architecture diagram i finally submitted my project proposal.
+
+04/11/2020
+Today i decided to change some thing within my project design. Instead of using a esp32 with camera module i decided to use a normal webcam for facial recognition as an EPS32 is really not nessesary for my project. I consulted paul and brian and they seem to be okay with it. I updated my project proposal and subbmitted again.
