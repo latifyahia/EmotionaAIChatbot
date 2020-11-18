@@ -8,3 +8,6 @@ Today is the dealline for our project proposal. I showed my propsoal to Brian to
 
 04/11/2020
 Today i decided to change some thing within my project design. Instead of using a esp32 with camera module i decided to use a normal webcam for facial recognition as an EPS32 is really not nessesary for my project. I consulted paul and brian and they seem to be okay with it. I updated my project proposal and subbmitted again.
+
+18/11/2020
+Last week for the 9th of november i forgot to update my log for the research that i was doing on docker containers and how they work as im playing on setting up everything on my local server on a docker container and have all the work transfered to my AWS after christmas within the container. This week i couldnt really get much done as im pretty busy with assignments.
