@@ -1,0 +1,15 @@
+18/11/2020
+****Introduction To Docker and Docker Containers - https://www.youtube.com/watch?v=JSLpG_spOBM****
+How to move Docker containers between different hosts? - https://stackoverflow.com/questions/28734086/how-to-move-docker-containers-between-different-hosts#:~:text=You%20cannot%20move%20a%20running,has%20created%20inside%20the%20container.
+AWS data transfer local machine to Windows EC2 - https://www.youtube.com/watch?v=FWCJejVu66c
+
+24/11/2020
+****Installing ubuntu docker python and django & some trouble shooting****
+http://manpages.ubuntu.com/manpages/xenial/man1/docker-login.1.html
+https://www.python.org/downloads/release/python-379/
+https://ubuntu.com/tutorials/ubuntu-on-windows#3-enable-wsl
+https://coderwall.com/p/ooerda/python-django-apache-ubuntu
+https://www.jetbrains.com/help/idea/creating-django-project.html
+https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker
+https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
+https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket

@@ -11,3 +11,6 @@ Today i decided to change some thing within my project design. Instead of using 
 
 18/11/2020
 Last week for the 9th of november i forgot to update my log for the research that i was doing on docker containers and how they work as im playing on setting up everything on my local server on a docker container and have all the work transfered to my AWS after christmas within the container. This week i couldnt really get much done as im pretty busy with assignments.
+
+24/11/2020
+Today i installed ubuntu with python and docker. I also installed django and got my webserver running on my localhost. Im having trouble trying to understand docker as its not working correctly for me. I will conintue to research this and find a solution.
