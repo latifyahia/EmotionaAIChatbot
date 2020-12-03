@@ -14,3 +14,6 @@ Last week for the 9th of november i forgot to update my log for the research tha
 
 24/11/2020
 Today i installed ubuntu with python and docker. I also installed django and got my webserver running on my localhost. Im having trouble trying to understand docker as its not working correctly for me. I will conintue to research this and find a solution.
+
+03/12/2020
+This week i tried resolving some issues i was having with docker but i was unsuccessful. Im going to skip over docker for now and continue working on django and rasa. I also have ordered my webcam off amazon so i can start working on the azure facial recognition.
