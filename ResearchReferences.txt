@@ -13,3 +13,9 @@ https://www.jetbrains.com/help/idea/creating-django-project.html
 https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker
 https://phoenixnap.com/kb/how-to-install-python-3-ubuntu
 https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket
+
+
+08/12/2020
+https://docs.microsoft.com/en-us/azure/cognitive-services/Face/Quickstarts/client-libraries?pivots=programming-language-python&tabs=visual-studio#verify-faces
+https://rasa.com/docs/rasa/installation
+https://www.youtube.com/watch?v=k5UeywXA28k
