@@ -18,4 +18,5 @@ Today i installed ubuntu with python and docker. I also installed django and got
 03/12/2020
 This week i tried resolving some issues i was having with docker but i was unsuccessful. Im going to skip over docker for now and continue working on django and rasa. I also have ordered my webcam off amazon so i can start working on the azure facial recognition.
 
-
+08/12/2020
+I installed rasa and have got the sample code for the chat bot working. I can interact with the bot via a terminal. I have also installed azure facial recognition but i havnt got that set up properly yet. im hoping to have it verifying faces soon. I will be using example code to test and make sure if the azure facial recognition is set up correctly.
