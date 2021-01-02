@@ -23,3 +23,7 @@ I installed rasa and have got the sample code for the chat bot working. I can in
 
 17/12/2020
 I havent been working on my project over the past week as ive had alot of assignments and exams coming up. I plan on working on the project during christmas break 
+
+01/01/2020
+Over the past two week i was very busy with assignments and coding exams which didnt give me much time to work on this project. I startred where i last left off which was installing azure facial recognition. Im running into a few problems with my webcam but currentlyu havent found a soultion for it. I plan to continue 
+working on this until i fix it. As soon as i get the problem fixed i will be able to start detecting faces and emotions using azure api. I then will start development on the bot to improve it.
