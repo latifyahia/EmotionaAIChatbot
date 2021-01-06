@@ -19,3 +19,39 @@ https://www.digitalocean.com/community/questions/how-to-fix-docker-got-permissio
 https://docs.microsoft.com/en-us/azure/cognitive-services/Face/Quickstarts/client-libraries?pivots=programming-language-python&tabs=visual-studio#verify-faces
 https://rasa.com/docs/rasa/installation
 https://www.youtube.com/watch?v=k5UeywXA28k
+
+
+01/01/2021-05/01/2021
+***Was having many problems with ubuntu and inteliji regarding python packages for azure. Took me alot of research to figure out what i was missing and how ot install certain packages need. 
+I also done some researcdh on django and how it was suppose ot be set up using templates and static files while also looking at url pattern for django. Alot more was done than ive said. 
+I didnt decide to mention ever problem i was running into as some where not as time consuming but the research was still done.***
+https://www.kirupa.com/html5/accessing_your_webcam_in_html5.htm
+https://askubuntu.com/questions/1119301/your-system-is-unable-to-reach-the-snap-store
+https://www.programmersought.com/article/13415144124/
+https://docs.microsoft.com/en-gb/azure/cognitive-services/Face/Quickstarts/client-libraries?pivots=programming-language-python&tabs=visual-studio#detect-faces-in-an-image
+https://docs.microsoft.com/en-us/python/api/azure-cognitiveservices-vision-face/azure.cognitiveservices.vision.face.operations.faceoperations?view=azure-python#detect-with-url-url--return-face-id-true--return-face-landmarks-false--return-face-attributes-none--recognition-model--recognition-01---return-recognition-model-false--detection-model--detection-01---custom-headers-none--raw-false----operation-config-
+https://azure.microsoft.com/en-us/services/cognitive-services/face/#features
+https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
+https://docs.microsoft.com/en-gb/azure/cognitive-services/Face/Quickstarts/client-libraries?pivots=programming-language-python&tabs=visual-studio
+https://stackoverflow.com/questions/38613316/how-to-upgrade-pip3
+https://www.youtube.com/watch?v=73ePQiT2rPU
+https://github.com/pypa/pip/issues/8333
+https://www.youtube.com/watch?v=l0rV7AIenTY&t=1s
+https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/howtoanalyzevideo_face
+https://docs.microsoft.com/en-us/rest/api/cognitiveservices/face/face/detectwithstream
+https://askubuntu.com/questions/793507/rm-cannot-remove-directory-permission-denied
+https://www.digitalocean.com/community/questions/unable-to-install-pyhton-3-7-version-on-ubuntu-16-04-error-couldn-t-find-any-package-by-regex-python3-7
+https://stackoverflow.com/questions/34198892/ubuntu-how-do-you-remove-all-python-3-but-not-2/34198961
+https://www.youtube.com/watch?v=ymNJIB8cZvs
+https://www.youtube.com/watch?v=Kz-G6GnumsI
+https://www.youtube.com/watch?v=GNlIe5zvBeQ&t=391s
+https://www.youtube.com/watch?v=QvTyqta3OJo&t=277s
+https://www.youtube.com/watch?v=KCSyRO0KotA&t=551s
+https://github.com/Azure/azure-sdk-for-python/issues/10646
+https://realpython.com/python-keyerror/
+https://docs.python.org/3/installing/index.html
+https://stackoverflow.com/questions/51775462/python-3-7-import-requests-returns-chardet-error
+https://askubuntu.com/questions/1123159/broken-apt-on-wsl-18-04
+https://itsfoss.com/unable-to-locate-package-error-ubuntu/
+https://askubuntu.com/questions/1239829/modulenotfounderror-no-module-named-distutils-util
+https://askubuntu.com/questions/884568/ubuntu-16-04-1-snap-install-conjure-up-error

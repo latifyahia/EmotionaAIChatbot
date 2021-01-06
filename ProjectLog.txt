@@ -27,3 +27,13 @@ I havent been working on my project over the past week as ive had alot of assign
 01/01/2021
 Over the past two week i was very busy with assignments and coding exams which didnt give me much time to work on this project. I startred where i last left off which was installing azure facial recognition. Im running into a few problems with my webcam but currentlyu havent found a soultion for it. I plan to continue 
 working on this until i fix it. As soon as i get the problem fixed i will be able to start detecting faces and emotions using azure api. I then will start development on the bot to improve it.
+
+05/01/2021
+Over the past couple days i was focusing on getting azure facial recognition to work. Using sample code form microsoft i have it decting emotions from images but currently looking on how to get 
+it to detect emotions from a live stream which is alot more complicated.I also focused on getting my webcam stream onto my localhost server. This was fairly time consuiming as to do that i had to do
+alot of more stuff with djano like setting up templates for pages, setting url patterns and writing some simple code into views.py. I done alot of research in order to do this as can be seen in the research.txt 
+reference. Over the past few days i broke my ubuntu which caused to have alot of errors using it. I spent about 7-8 hours trying to fix it which i did. I also spent alot of time figuing out how to install the python packages for azure 
+in inteliji as i was going to need them. There isnt much infomation out there on this matter which caused me to spend several hours on it. I was initalling the lastest mega library from azure which kept causing my python to crash and give me errors
+which was weird because all other packages where being installed fine. After digging around on github i found out there was a problem with the python package lastest version which i than just installed the previous version which was 4.0.0. I was happy 
+i finally got it done and somewhat working. I havnt touched the chatbot yet as i feel i can do that very easily just to get it to commuicate better before the presentation hence wy i was focued more on the azure and django stuff.
+I plan to hopefulyl get the azure facial recognition working with my webcam stream before the presentaitons aswell as have the bot commiucate somehow with a human.
