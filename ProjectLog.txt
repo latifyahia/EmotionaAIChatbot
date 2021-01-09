@@ -37,3 +37,8 @@ in inteliji as i was going to need them. There isnt much infomation out there on
 which was weird because all other packages where being installed fine. After digging around on github i found out there was a problem with the python package lastest version which i than just installed the previous version which was 4.0.0. I was happy 
 i finally got it done and somewhat working. I havnt touched the chatbot yet as i feel i can do that very easily just to get it to commuicate better before the presentation hence wy i was focued more on the azure and django stuff.
 I plan to hopefulyl get the azure facial recognition working with my webcam stream before the presentaitons aswell as have the bot commiucate somehow with a human.
+
+08/02/2021
+made alot of changes to the bot and now have it communicatig to the user where it will ask users name and reply with to the user with their name and ask about how theyre day is etc etc. 
+Im only currently working on the happy path and have no started on other emotions yet. I change alot of the NLU data aswell and started righting custom actions for slop mapping in order to take users name 
+aswell as if theyre happy and why theyre happy. Still alot of work to be done on the happy path and im no where were id like to be but im finding this challeneging which is good i guess.
