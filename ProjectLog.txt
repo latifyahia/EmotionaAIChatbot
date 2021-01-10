@@ -49,6 +49,6 @@ is pretty cool as before i was only able to communicate with the bot via shell. 
 do that at somepoint within this project. I also changed something with the azure facial recognition. Now i can get a link to any photo online and get the emotions displayed in that photo. I tried  capturing a photo from my webcam and using that to detect emotions but 
 it didnt work and im now abit stuck. I feel like i made good progress today and my presentation will go well with what i have currently working. There is still alot to do and its going to be very challenging as right now its already tough.
 
-10/01/2020
+10/01/2021
 Today i finizled some changes for my christmas demo. I made my video demo but i feel as the timeframe we were giving was too little to go through everything and all the work i had done doesnt seem like it got covered. I have uploaded my video
 and my questionaire. 
