@@ -52,3 +52,7 @@ it didnt work and im now abit stuck. I feel like i made good progress today and 
 10/01/2021
 Today i finizled some changes for my christmas demo. I made my video demo but i feel as the timeframe we were giving was too little to go through everything and all the work i had done doesnt seem like it got covered. I have uploaded my video
 and my questionaire. 
+
+27/01/2021
+I have research ways to try get azure face to detect emotions through live feed but havnt really found anything and if i have they are just too complicated for what im trying to do. Im thinking of taking snapshots of my webcam live feed 
+and saving the images to my server for processing. This way i can bacially detect emotions through a feed. Its not the best way but im trying to give it a go anyways to see if it even works.

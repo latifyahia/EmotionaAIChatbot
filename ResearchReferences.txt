@@ -117,3 +117,12 @@ https://stackoverflow.com/questions/59709196/azure-cognitive-serivces-keyerror-e
 https://dev.to/dalalrohit/live-stream-your-webcam-to-html-page-3ehf
 https://www.encodedna.com/javascript/capture-webcam-picture-with-webcamjs.htm
 https://mybrowseraddon.com/access-control-allow-origin.html?v=0.1.5&type=install
+
+27/01/2021
+**Trying to detect faces through live feed**
+https://docs.microsoft.com/en-us/rest/api/cognitiveservices/face/face/detectwithstream
+https://docs.microsoft.com/en-us/rest/api/cognitiveservices/face/persongroupperson/addfacefromstream
+https://stackoverflow.com/questions/8385876/best-way-of-saving-images-in-the-server-side
+https://forums.asp.net/t/1616819.aspx?What+the+best+way+to+save+the+picture+file+on+server+
+https://craftcms.stackexchange.com/questions/25371/uploaded-images-are-saving-to-the-servers-temp-folder-and-throwing-500-errors
+https://forums.asp.net/t/1260823.aspx?how+to+save+image+on+server+and+add+image+url+to+database+for+display+on+web+page
