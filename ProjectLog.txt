@@ -56,3 +56,7 @@ and my questionaire.
 27/01/2021
 I have research ways to try get azure face to detect emotions through live feed but havnt really found anything and if i have they are just too complicated for what im trying to do. Im thinking of taking snapshots of my webcam live feed 
 and saving the images to my server for processing. This way i can bacially detect emotions through a feed. Its not the best way but im trying to give it a go anyways to see if it even works.
+
+02/02/2021
+Ive been trying to figure out how to save images on my localhost server then analyze those images for dections. Im making abit of progress but not as much as id like to. Im hoping to get this done by the end of next week and start working on converstaion paths.
+Ive been looking online on how to do this but there really isnt much out there as im going to need a image URL for the image to detect the emotions and im not sure if thats even possible.
