@@ -60,3 +60,8 @@ and saving the images to my server for processing. This way i can bacially detec
 02/02/2021
 Ive been trying to figure out how to save images on my localhost server then analyze those images for dections. Im making abit of progress but not as much as id like to. Im hoping to get this done by the end of next week and start working on converstaion paths.
 Ive been looking online on how to do this but there really isnt much out there as im going to need a image URL for the image to detect the emotions and im not sure if thats even possible.
+
+10/02/2020
+Ive figured out how to save images to my computer in order to analyze them for facial dectection. Ive ran into a problem regarding AWS. I havent been able to sign up for it as a student as use it for free like 
+i was told i would be able to do from one of my lectures. Since im not able to use AWS, ive left the whole saving images to the computer/server since id have to redo it all when talking about saving it
+to the server.
