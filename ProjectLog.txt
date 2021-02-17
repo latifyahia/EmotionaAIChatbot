@@ -66,7 +66,7 @@ Ive figured out how to save images to my computer in order to analyze them for f
 i was told i would be able to do from one of my lectures. Since im not able to use AWS, ive left the whole saving images to the computer/server since id have to redo it all when talking about saving it
 to the server.
 
-06/02/21
+16/02/21
 For the past few days ive added more NLU data to the chatbot. While i was adding NLU data i started thinking on how to actually get the emotioned across to the bot. Im thinking of writing python code in the
 actions.py file that will need a requested slot to be filled. If i fill the json data that i get into these slots and depending on the emotion recieved the bot will be able to talk in different ways. I will 
 also have to do alot of work in stories to get all the right paths for the converstaion right. Im slowly progressing step by step
