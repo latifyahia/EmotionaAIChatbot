@@ -77,3 +77,9 @@ the following monday. I looked through the web to see if there was a way to do a
 Apprently django and PHP dont seem to get along together too well and there isnt much explaination out their on the subject. I kept getting a url reference error saying the url was not defined yet i had it defined and my other urls work. im literally 
 at a point where i dont know what to do from here? should i maybe use another techonolgy thats no Azure which might make facial decetion with a live camera feed work instead of tyring to find this whole way of saving images and trying to idenitify emotions that way
 Im really not sure what to do but ill keep researching what i can do.
+
+02/03/21
+I decided to stop using azure face to dection emotions as its hard to work with in python as its mainly used in C++. I tried saving photos to the server and using the image link to detect emotions that way but i kept running into other problems. 
+I came accross a faceial recogintion API library thats written in javascript. I started working with it and im now able to detect emotions through my live camera feed. Its a great API thats eays to use. I read about it online and watch some tutorials on how to use it.
+I downloaded some models to use for the API and everything works great. Im getting all the emotion data into an array in javascript which i will then have to send across to python  probably using jquary and json which i havent figure out how to do yet but im making
+progress and im pretty happy that i have that working now.
