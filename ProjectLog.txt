@@ -83,3 +83,7 @@ I decided to stop using azure face to dection emotions as its hard to work with 
 I came accross a faceial recogintion API library thats written in javascript. I started working with it and im now able to detect emotions through my live camera feed. Its a great API thats eays to use. I read about it online and watch some tutorials on how to use it.
 I downloaded some models to use for the API and everything works great. Im getting all the emotion data into an array in javascript which i will then have to send across to python  probably using jquary and json which i havent figure out how to do yet but im making
 progress and im pretty happy that i have that working now.
+
+09/03/21
+This week i havent really had time to work on the project has i have been trying to start 3 other miniprojects aswell as i had 3 exams coming up which i studied for. I plan to start the miniprojects for other modules and finish these exams before returning to work on
+this project. Ive also just been looking around on how to send a jquary from the face-api to django nothing major.
