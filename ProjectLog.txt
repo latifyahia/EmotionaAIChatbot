@@ -87,3 +87,7 @@ progress and im pretty happy that i have that working now.
 09/03/21
 This week i havent really had time to work on the project has i have been trying to start 3 other miniprojects aswell as i had 3 exams coming up which i studied for. I plan to start the miniprojects for other modules and finish these exams before returning to work on
 this project. Ive also just been looking around on how to send a jquary from the face-api to django nothing major.
+
+16/03/2021
+Unfortunitally i hadnt had time to work on my project this week as ive been working on other miniprojects. Im still looking over stuff for my project and taking note of things to do when i get back to working on it as to save myself time 
+from having to look up all the stuff to do. I think ive figured out how to transfer the data from js to my views.py and then over to rasa. Its only a matter of writing the code. 
