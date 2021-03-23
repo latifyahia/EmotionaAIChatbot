@@ -91,3 +91,8 @@ this project. Ive also just been looking around on how to send a jquary from the
 16/03/2021
 Unfortunitally i hadnt had time to work on my project this week as ive been working on other miniprojects. Im still looking over stuff for my project and taking note of things to do when i get back to working on it as to save myself time 
 from having to look up all the stuff to do. I think ive figured out how to transfer the data from js to my views.py and then over to rasa. Its only a matter of writing the code. 
+
+23/03/21
+I did some reserch on json and how i would go about formating the facial expressions i was getting in my json object. I can now format the data i want through javascript and pass that data along to a hidden html text input field where i will later go a get request o that field 
+in order to pull the facial expression of the person that is seen on the webcam. That emotion will later be passed to rasa where the bot will require a slot called emotion before any message are sent back. This way the bot will talk to the person depending on the 
+emotions it detects. Good progress so far this week and i dont plan on stopping. As soon as i get going its hard to stop. 

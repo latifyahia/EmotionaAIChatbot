@@ -165,3 +165,15 @@ https://www.youtube.com/watch?v=CVClHLwv-4I&feature=youtu.be
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 https://stackoverflow.com/questions/3971429/passing-a-javascript-array-to-a-django-view
 https://stackoverflow.com/questions/10641893/convert-javascript-array-to-python-list
+
+23/03/2021
+**Formnating json data to pull they keys with exciting facial expressions**
+https://jsonformatter.curiousconcept.com/#
+https://stackoverflow.com/questions/50290393/post-json-data-in-a-html-form
+https://www.w3schools.com/tags/att_input_type_text.asp
+https://www.w3schools.com/js/js_htmldom_html.asp
+https://www.w3schools.com/js/js_json_intro.asp
+https://www.freeformatter.com/json-formatter.html#ad-output
+https://stackoverflow.com/questions/22195065/how-to-send-a-json-object-using-html-form-data
+https://stackoverflow.com/questions/61500040/javascript-faceapi-js-changing-text-based-on-facial-expressionhappy-sad-ang
+https://stackoverflow.com/questions/26901971/how-to-get-all-key-in-json-object-javascript
