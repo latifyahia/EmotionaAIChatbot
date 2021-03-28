@@ -177,3 +177,20 @@ https://www.freeformatter.com/json-formatter.html#ad-output
 https://stackoverflow.com/questions/22195065/how-to-send-a-json-object-using-html-form-data
 https://stackoverflow.com/questions/61500040/javascript-faceapi-js-changing-text-based-on-facial-expressionhappy-sad-ang
 https://stackoverflow.com/questions/26901971/how-to-get-all-key-in-json-object-javascript
+
+28/03/21
+**Sending emotioned to hidden text input field**
+https://www.w3schools.com/js/js_loop_for.asp
+https://jsonformatter.curiousconcept.com/#
+https://www.w3schools.com/jsref/jsref_push.asp
+https://www.w3schools.com/js/js_arrays.asp
+https://stackoverflow.com/questions/1669190/find-the-min-max-element-of-an-array-in-javascript
+https://stackoverflow.com/questions/1828924/array-inside-a-javascript-object
+https://stackoverflow.com/questions/1068834/object-comparison-in-javascript
+https://stackoverflow.com/questions/5850956/get-the-array-key-with-the-highest-value-in-javascript
+https://github.com/justadudewhohacks/face-api.js/blob/master/README.md#models-face-expression-recognition
+https://stackoverflow.com/questions/1435015/how-can-i-make-the-browser-wait-to-display-the-page-until-its-fully-loaded
+https://www.delftstack.com/howto/javascript/javascript-wait-for-x-seconds/
+https://stackoverflow.com/questions/41296130/how-to-get-textbox-value-in-views-py-django
+https://forum.rasa.com/t/how-to-send-receive-request-response-to-rasa-using-flask/1461/2
+https://forum.rasa.com/t/how-to-utter-a-custom-json-which-holds-a-template-response-inside-it/33208
