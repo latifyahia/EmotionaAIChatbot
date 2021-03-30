@@ -97,7 +97,19 @@ I did some reserch on json and how i would go about formating the facial express
 in order to pull the facial expression of the person that is seen on the webcam. That emotion will later be passed to rasa where the bot will require a slot called emotion before any message are sent back. This way the bot will talk to the person depending on the 
 emotions it detects. Good progress so far this week and i dont plan on stopping. As soon as i get going its hard to stop. 
 
-08/03/21
+28/03/21
 I did some more coding in my javascript function to extract and send the emotions being displaye by the user. I now have the emotion thats being displayed if the model detects that an emotion is being displaced thats greater
 than 50%, it would send over the emotion to a hidden html text input field. I will later try to retreive this value from the hidden input text field and pass it across to rasa. I also
 changed some of the actions in rasa to try retrive this emotion but no luck yet.
+
+30/08/21
+**Also made a mistake last commit, i put date as 08/03/21, instead of 28/03/21**
+I tried to pass the current emotion diaplyed through django but unfortunallty i didnt get anywhere. I started looking at different soultion to try do this. Passing data from Django to Rasa is hard since RASA 
+only really likes to get json data and my current emotion displayed wasnt in json format. After doing heavy research, i came to the conclusion that i am doing to use NodeJS to set up a fake REST API on my 
+localhost:3000 port to put json data onto a server. This allows me to access the Json data on the json-server and use it within RASA. I am using Axois to change the data on the json server and am constantly 
+updating it with the current emotion displayed. This later allows me to always  get the current emotion displayed. Im doing all of this constantly in order to always have the current emotion being updated live.
+I now have my Face-Api detecting the emotion displayed every 5 second. Im than sending that emotion to a Json server which i will later than get within RASA and fill it as a requested slot. I made alot of progress today
+and am very happy with myself. It should be a pretty straight road from here on. I also removed some code within the home page, i removed the input textfield since i no longer require it aswell as i made some changes 
+within RASA trying to get data from django. Also, i thought of using the Django REST API but after doing some research i came to the conclusion that its to much work and would instead rather use a fake rest api 
+like a json-server running on nodeJS, which in the end was easier and less time consuming.
+
