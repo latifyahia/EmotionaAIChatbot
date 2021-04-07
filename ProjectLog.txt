@@ -102,7 +102,7 @@ I did some more coding in my javascript function to extract and send the emotion
 than 50%, it would send over the emotion to a hidden html text input field. I will later try to retreive this value from the hidden input text field and pass it across to rasa. I also
 changed some of the actions in rasa to try retrive this emotion but no luck yet.
 
-30/08/21
+30/03/21
 **Also made a mistake last commit, i put date as 08/03/21, instead of 28/03/21**
 I tried to pass the current emotion diaplyed through django but unfortunallty i didnt get anywhere. I started looking at different soultion to try do this. Passing data from Django to Rasa is hard since RASA 
 only really likes to get json data and my current emotion displayed wasnt in json format. After doing heavy research, i came to the conclusion that i am doing to use NodeJS to set up a fake REST API on my 
@@ -112,4 +112,13 @@ I now have my Face-Api detecting the emotion displayed every 5 second. Im than s
 and am very happy with myself. It should be a pretty straight road from here on. I also removed some code within the home page, i removed the input textfield since i no longer require it aswell as i made some changes 
 within RASA trying to get data from django. Also, i thought of using the Django REST API but after doing some research i came to the conclusion that its to much work and would instead rather use a fake rest api 
 like a json-server running on nodeJS, which in the end was easier and less time consuming.
+
+06/04/2021
+I now have a custom action that pull the current emotion being displayed into RASA. This custom action also fills a slot in RASa which i can later than use to drive converstaion in a certain way. Currently im having problems relating to slots in my stories,
+since the my stories arent being followed. Ive posted on RASA community forms seeking assistance and am waiting to hear back. Today i made good progress again but not where i wanted to be by the end of this coding session. Im nearly there so i dont mind putting in the work.
+I also cleaned up my RASA code so its easier to work with and i added alot of more policys for the chatbot to follow. All in all the bot looks good apart from that one problem. As soon as i fix that problem i would have my project finished within 2 weeks.
+
+
+
+
 

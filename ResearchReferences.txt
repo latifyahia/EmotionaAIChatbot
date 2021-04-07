@@ -232,5 +232,30 @@ https://www.javaer101.com/en/article/34638766.html
 https://stackoverflow.com/questions/1208067/wheres-my-json-data-in-my-incoming-django-request
 https://riptutorial.com/javascript/example/1293/sending-and-receiving-json-data-via-post
 
+06/04/21
+**pulling current detected emotion to rasa and filling a slot - also researched policies for rasa and applied the ones i need**
+https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+https://stackoverflow.com/questions/41452819/list-append-in-for-loop
+https://forum.rasa.com/t/how-to-set-requested-slot-to-custom-value/21947/2
+https://rasa.com/docs/rasa/custom-actions/
+https://rasa.com/docs/action-server/sdk-events
+https://forum.rasa.com/t/rasa-2-1-fill-slots-from-custom-action/37278
+https://rasa.com/docs/rasa/forms/
+https://rasa.com/docs/rasa/domain/#slots
+https://forum.rasa.com/t/default-fallback-action/30259
+https://forum.rasa.com/t/rasa-action-default-fallback-after-i-reset-the-slots-after-the-stories/39593
+https://forum.rasa.com/t/rasa-fallback-action-failing-for-faq-bot/31863
+https://forum.rasa.com/t/contradicting-rules-or-stories-found/36563
+https://rasa.com/docs/rasa/policies/
+https://rasa.com/docs/rasa/stories/
+https://forum.rasa.com/t/using-custom-action-to-set-slot-value/20192
+https://forum.rasa.com/t/rasa-not-following-story/3318
+https://rasa.com/docs/rasa/testing-your-assistant/
+https://forum.rasa.com/t/influencing-dialogue-flow-based-on-slot-value/20964/6
+https://forum.rasa.com/t/set-slot-value-in-custom-action/11891/4
+https://forum.rasa.com/t/how-can-i-set-a-slot-value-in-story-itself/2184
+https://rasa.com/docs/rasa/training-data-format/
+https://forum.rasa.com/t/choosing-stories-based-on-existing-slot-values/15289
 
 
