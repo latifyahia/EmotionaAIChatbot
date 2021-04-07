@@ -118,7 +118,10 @@ I now have a custom action that pull the current emotion being displayed into RA
 since the my stories arent being followed. Ive posted on RASA community forms seeking assistance and am waiting to hear back. Today i made good progress again but not where i wanted to be by the end of this coding session. Im nearly there so i dont mind putting in the work.
 I also cleaned up my RASA code so its easier to work with and i added alot of more policys for the chatbot to follow. All in all the bot looks good apart from that one problem. As soon as i fix that problem i would have my project finished within 2 weeks.
 
-
+07/04/2021
+I got a reply from a RASA developer regarding my issue of my stories in rasa not being followed depending on the slot value set. The RASA developer told me to change the slot value type from 'text' to 'catagorial'. This 
+ended up fixing my issue i was having. Now rasa will follow the stories i wrote depending on the different slot value which is set for emotion. This is great because now i can just bang out the whole code without worrying about any more problems. The foundation for my code is there
+now i must write it.
 
 
 

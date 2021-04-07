@@ -258,4 +258,8 @@ https://forum.rasa.com/t/how-can-i-set-a-slot-value-in-story-itself/2184
 https://rasa.com/docs/rasa/training-data-format/
 https://forum.rasa.com/t/choosing-stories-based-on-existing-slot-values/15289
 
-
+07/04/2021
+**Fixing story no being followed with respect to slot value - got this fixed thanks to a RASA developer - Stories now  are followed depending on emotion detected**
+https://forum.rasa.com/t/rasa-stories-not-being-followed-through-different-values-for-slots/42167
+https://forum.rasa.com/t/circuit-breaker-tripped-stopped-predicting-more-actions-for-sender-default/1363
+https://github.com/RasaHQ/rasa/issues/2157
