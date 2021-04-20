@@ -263,3 +263,11 @@ https://forum.rasa.com/t/choosing-stories-based-on-existing-slot-values/15289
 https://forum.rasa.com/t/rasa-stories-not-being-followed-through-different-values-for-slots/42167
 https://forum.rasa.com/t/circuit-breaker-tripped-stopped-predicting-more-actions-for-sender-default/1363
 https://github.com/RasaHQ/rasa/issues/2157
+
+20/04/2021
+**Adding Bootstrap**
+https://getbootstrap.com/docs/5.0/components/navs-tabs/
+https://getbootstrap.com/docs/5.0/layout/grid/
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+https://www.w3schools.com/css/tryit.asp?filename=trycss_background-color_elements
+https://stackoverflow.com/questions/14720464/django-project-base-template

@@ -123,5 +123,9 @@ I got a reply from a RASA developer regarding my issue of my stories in rasa not
 ended up fixing my issue i was having. Now rasa will follow the stories i wrote depending on the different slot value which is set for emotion. This is great because now i can just bang out the whole code without worrying about any more problems. The foundation for my code is there
 now i must write it.
 
+20/04/2021
+Started adding bottstrap to my html code to better style my website. Im trying to finish all the styling and make it look professional before proceeding anymore. Styling my website and finishing all the webpages now
+is a good idea in my view
+
 
 
