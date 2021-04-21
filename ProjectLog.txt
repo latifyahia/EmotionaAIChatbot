@@ -125,7 +125,12 @@ now i must write it.
 
 20/04/2021
 Started adding bottstrap to my html code to better style my website. Im trying to finish all the styling and make it look professional before proceeding anymore. Styling my website and finishing all the webpages now
-is a good idea in my view
+is a good idea in my view.
+
+20/04/2021
+added user registeration app to my django project which allows a user to login,logout or register if they done have an account. I used djangos built in authentication system to do this with the help from some online sources. 
+I Also set up the django database to save users info. I also set up a database tabel with emotions that can be sent in by different users who are logged in. This will allow me to extract these emotions depeneding on the user and 
+chart them later to add more funcionality to my website. I also done alot of styling and started using bootstrap5 to do my styling. My website looks nice and clean now but not finished as there is still a good but more styling to do
 
 
 
