@@ -132,5 +132,9 @@ added user registeration app to my django project which allows a user to login,l
 I Also set up the django database to save users info. I also set up a database tabel with emotions that can be sent in by different users who are logged in. This will allow me to extract these emotions depeneding on the user and 
 chart them later to add more funcionality to my website. I also done alot of styling and started using bootstrap5 to do my styling. My website looks nice and clean now but not finished as there is still a good but more styling to do
 
-
+22/04/2021
+I created a user profiles page. Each user with an account will be able to access their own profile page. On this page, it will display personal information and emotions detected collected through live sessions of
+using the chatbot. The facial regoniton will save each emotion detected by the user to djangos data base. I wrote a function to pull the current logged in users detected emotion from the django database then plot the 
+percentage of emotions detected in different charts. I created the charts using chartsjs and i used jquary with ajax to send the emotions to the database. I also made sure people who are not logged in cannot access the profile page. I also added some very nice stlying to the profile
+page. Users can toggle the charts to display them. I also added fade in and fade out animations for the charts for when their toggled. It adds lot more functionality ot my website and makes it look nice.
 
