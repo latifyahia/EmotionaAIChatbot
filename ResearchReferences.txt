@@ -356,3 +356,18 @@ https://www.chartjs.org/docs/latest/charts/bar.html
 https://stackoverflow.com/questions/40254027/horizontal-bar-chart-in-chart-js
 https://stackoverflow.com/questions/36003670/how-to-put-a-link-on-a-button-with-bootstrap
 https://stackoverflow.com/questions/40861920/why-can-i-not-center-an-a-tag-inside-a-bootstrap-column
+
+26/04/2021
+**styling/fixing chatwidget +  styling on website**
+https://www.codegrepper.com/code-examples/javascript/Cannot+read+property+%27classList%27+of+undefined#:~:text=%E2%80%9CCannot%20read%20property%20'classList'%20of%20undefined%E2%80%9D%20Code%20Answer&text=1-,It%20means%20that%20document.,call%20classList%20on%20undefined%20itself.&text=5-,Either%20add%20the%20attribute%20id%20to,or%20change%20getElementById%20to%20getElementsByName.
+https://stackoverflow.com/questions/52909830/typeerror-cannot-read-property-classlist-of-null
+https://stackoverflow.com/questions/54472208/uncaught-typeerror-cannot-read-property-classlist-of-null
+https://getbootstrap.com/docs/4.5/components/dropdowns/
+https://www.rescuedigitalmedia.com/fix-corrupted-png-files
+https://docs.djangoproject.com/en/3.2/howto/static-files/
+https://www.youtube.com/watch?v=u1FR1nZ6Ng4
+https://pinetools.com/colorize-image
+https://cloudinary.com/blog/css_image_effects_five_simple_examples_and_a_quick_animation_guide
+https://materializecss.com/feature-discovery.html
+https://www.youtube.com/watch?v=Xnp04GFcqjQ
+https://stackoverflow.com/questions/42491691/how-do-i-add-custom-css-to-crispy-forms

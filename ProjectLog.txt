@@ -138,3 +138,7 @@ using the chatbot. The facial regoniton will save each emotion detected by the u
 percentage of emotions detected in different charts. I created the charts using chartsjs and i used jquary with ajax to send the emotions to the database. I also made sure people who are not logged in cannot access the profile page. I also added some very nice stlying to the profile
 page. Users can toggle the charts to display them. I also added fade in and fade out animations for the charts for when their toggled. It adds lot more functionality ot my website and makes it look nice.
 
+
+26/04/2021
+i fixed the chat widget layout now its no londer overlapping the feature focus text. I also chanegd around the avatar images to somehting better and also now my static images load properly sinc ebefore they didnt work/load. I also did good amount of styling on the login/regisiter page 
+aswell as the chatbot widget page. I also got the drop down on the widget to work now.
