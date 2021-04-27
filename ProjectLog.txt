@@ -142,3 +142,8 @@ page. Users can toggle the charts to display them. I also added fade in and fade
 26/04/2021
 i fixed the chat widget layout now its no londer overlapping the feature focus text. I also chanegd around the avatar images to somehting better and also now my static images load properly sinc ebefore they didnt work/load. I also did good amount of styling on the login/regisiter page 
 aswell as the chatbot widget page. I also got the drop down on the widget to work now.
+
+27/04/2021
+I added sass and scss compiles to my django project so django would be be able to read scss files. I found a nice library for styling that used scss and i wanted to use it. Only problem is django is not ocnfigured to read scss files which is a pity so i just ended up
+adding scss compilers to my django apps. I also done alotttttttttttttt of styling. I totally change the navigation bar at the top and also made my home page look very professional. My website is looking very veyr nice and im proud of it. I also renamed some html pages to
+better suited names. Majority of the styling is now complete which means i can style all my pages now all i really have to do is copy and paste stuff. 
