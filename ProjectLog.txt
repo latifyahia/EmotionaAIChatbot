@@ -147,3 +147,8 @@ aswell as the chatbot widget page. I also got the drop down on the widget to wor
 I added sass and scss compiles to my django project so django would be be able to read scss files. I found a nice library for styling that used scss and i wanted to use it. Only problem is django is not ocnfigured to read scss files which is a pity so i just ended up
 adding scss compilers to my django apps. I also done alotttttttttttttt of styling. I totally change the navigation bar at the top and also made my home page look very professional. My website is looking very veyr nice and im proud of it. I also renamed some html pages to
 better suited names. Majority of the styling is now complete which means i can style all my pages now all i really have to do is copy and paste stuff. 
+
+28/04/2021
+Started using gsap to animate elements on  my website. I added alot of animations to my home page. I also styled and filled in my about page with feautres and general information. I created icons for these features using lucid charts which i downloaded as svg files. 
+I also animated the about page. I changed around my animation on my profile page of the charts to use gsap instead of quary since i can do more with gsap. I also added checking to see if user is logged in to display different button on home page and aboutpage. Styling of 
+the website is 90% done. I also added a nice backgroudn that fades into the navigation header. I also animated the navigation header
