@@ -151,4 +151,4 @@ better suited names. Majority of the styling is now complete which means i can s
 28/04/2021
 Started using gsap to animate elements on  my website. I added alot of animations to my home page. I also styled and filled in my about page with feautres and general information. I created icons for these features using lucid charts which i downloaded as svg files. 
 I also animated the about page. I changed around my animation on my profile page of the charts to use gsap instead of quary since i can do more with gsap. I also added checking to see if user is logged in to display different button on home page and aboutpage. Styling of 
-the website is 90% done. I also added a nice backgroudn that fades into the navigation header. I also animated the navigation header
+the website is 90% done. I also added a nice backgroudn that fades into the navigation header. I also animated the navigation header. I also added some referencing to my code and referenced code i token from github repos and examples. Also ran a couple collect statics
