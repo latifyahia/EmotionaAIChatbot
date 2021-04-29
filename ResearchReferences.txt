@@ -421,5 +421,31 @@ https://www.w3schools.com/jquery/jquery_css_classes.asp
 https://greensock.com/forums/topic/18250-trigger-animation-only-on-clicked-element-using-class-selector/
 https://greensock.com/forums/topic/26374-simple-fade-out-fade-in/
 
+29/04/2021
+**Styled the Lolly page and added animation + also added error check to check if facial recogition is work + checking to see if user camera is enabled**
+https://stackoverflow.com/questions/4520943/fade-borders-in-css
+https://stackoverflow.com/questions/1358810/how-do-i-change-the-text-of-a-span-element-using-javascript
+https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div
+https://stackoverflow.com/questions/25970787/use-a-div-as-a-background-for-another-element
+https://www.youtube.com/watch?v=t7dWFUggkno
+https://stackoverflow.com/questions/2941189/how-to-overlay-one-div-over-another-div#:~:text=By%20using%20a%20div%20with,only%20works%20with%20positioned%20elements.
+https://www.twilio.com/blog/add-an-overlay-to-web-video-chat
+https://www.tutorialspoint.com/How-to-place-two-divs-next-to-each-other-in-HTML
+https://stackoverflow.com/questions/1909648/stacking-divs-on-top-of-each-other
+https://greensock.com/forums/topic/23902-changing-the-color-of-letters/
+https://stackoverflow.com/questions/1033398/how-to-execute-a-function-when-page-has-fully-loaded
+https://www.w3schools.com/jsref/met_element_setattribute.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content
+https://greensock.com/forums/topic/18962-changing-color-one-word-at-a-time/
+https://greensock.com/forums/topic/19569-how-tween-with-hex-colors-solved/
+https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/
+https://stackoverflow.com/questions/14782232/how-to-avoid-cannot-read-property-of-undefined-errors
+
+
+
+
+
+
+
 
 
