@@ -157,3 +157,9 @@ the website is 90% done. I also added a nice backgroudn that fades into the navi
 I styled the lolly page and also added animation to the page. I also added emotions that could be detected to the page and what ever emotion is being detected the color of the word changes to purple same colour as the website theme.I also added error checking to whether the facial recogition is detecting any faces. If no faces are being detect a error message will animate out and when the facial regcoition goes back the 
 detecting faces the error message will animate out. I also am displaying different texts on the Lolly page depending on whether the users camera is on or off, having the camera off ill display text asking the user to enable it for the full experience. Having the camera 
 on will display text regarding lolly and what the user can expect
+
+30/04/2021
+i styled the profile page and also added animation to it. The profile page looks very nice now. I also added more images to the website that i got for free from Updraw whichis an open source community for images for webdesign. I also have those new images on the home 
+pag, about page and profile page animating in. I set it so that if youre on 1920x1080 that the images wont show becausethere would then be too much on the screen and the website wont look as clean. If youre on 3440x1440 the images than will show because therer would be
+ alot of white space if the images didnt show. I also done some general work on the performce of the website because when i would go to the profile page or lolly page i would get white flickering which wasnt nice so i added a javascript function in the base.html to 
+ensure that the html body has loaded beofre doing anything. The styling of the website is now 99% done i just have to add one more animation and im finished

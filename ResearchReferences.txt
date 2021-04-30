@@ -441,6 +441,23 @@ https://greensock.com/forums/topic/19569-how-tween-with-hex-colors-solved/
 https://css-tricks.com/%E2%80%8B%E2%80%8Bavoiding-those-dang-cannot-read-property-of-undefined-errors/
 https://stackoverflow.com/questions/14782232/how-to-avoid-cannot-read-property-of-undefined-errors
 
+30/04/2021
+**styling profile page + adding open source web design images from Undraw to home page, about page and profile + putting in js function to ensure page has loaded before display content since i was getting white flickering while page was loading + adding redirect to login if user is not logged in on profile page**
+https://stackoverflow.com/questions/21123559/django-redirect-all-non-authenticated-users-to-landing-page/45139393
+https://www.youtube.com/watch?v=YqOhQWbouCE&t=281s
+https://greensock.com/forums/topic/21124-how-to-create-basic-slideshow/
+https://www.youtube.com/watch?v=fDrOTzYdR38
+https://undraw.co/illustrations
+https://stackoverflow.com/questions/7411541/how-to-prevent-the-white-flash-on-page-load-created-by-background-image-loadin
+https://stackoverflow.com/questions/1435015/how-can-i-make-the-browser-wait-to-display-the-page-until-its-fully-loaded
+https://stackoverflow.com/questions/17883692/how-to-set-time-delay-in-javascript
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate3d()
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew()
+
+
+
+
+
 
 
 
