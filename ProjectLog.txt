@@ -163,3 +163,9 @@ i styled the profile page and also added animation to it. The profile page looks
 pag, about page and profile page animating in. I set it so that if youre on 1920x1080 that the images wont show becausethere would then be too much on the screen and the website wont look as clean. If youre on 3440x1440 the images than will show because therer would be
  alot of white space if the images didnt show. I also done some general work on the performce of the website because when i would go to the profile page or lolly page i would get white flickering which wasnt nice so i added a javascript function in the base.html to 
 ensure that the html body has loaded beofre doing anything. The styling of the website is now 99% done i just have to add one more animation and im finished
+
+30/04/2021 - Part 2
+i ran the bot today to make sure it still working on the website but it turns out it stopped working because of an issue i was face earlier this year relating to cores policy when im passing data over from django to rasa. I ended up looking for a solution online but the default
+mentioned of install django-cors-headers didnt work for me so i was lucky to find a soultion where another user was having the same problem. They ended up righting their own middle ware class for cors policy and posted it on stackoverflow which i took and put into my project.
+No shame in takening his code to fix my own issue because the normal way of installing django-cors-headers just wasnting working i dont know why. Anyways after writing the class and putting it in my django app i was still having the same problems. Turns out since i was using chrome,
+my cache was effecting cors policy so i opened up edge and tried it there and like magic it worked. I spent a good 2 hours on this issue but happy its resolved now

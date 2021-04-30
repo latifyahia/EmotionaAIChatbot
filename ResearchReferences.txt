@@ -454,15 +454,28 @@ https://stackoverflow.com/questions/17883692/how-to-set-time-delay-in-javascript
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate3d()
 https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew()
 
-
-
-
-
-
-
-
-
-
-
-
-
+30/03/2021 - part 2
+**Solving cors policy issue blocking chatbot messaging spent webpage in django to rasa server**
+https://forum.rasa.com/t/webhook-problem/10102/2
+https://forum.rasa.com/t/solved-unable-to-deploy-the-rest-api-on-rasa-core/2173
+https://rasa.com/docs/rasa/command-line-interface/
+https://rasa.com/docs/rasa-x/0.20.5/deploy/
+https://stackoverflow.com/questions/32500073/request-header-field-access-control-allow-headers-is-not-allowed-by-itself-in-pr
+https://stackoverflow.com/questions/35760943/how-can-i-enable-cors-on-django-rest-framework
+https://dzone.com/articles/how-to-fix-django-cors-error
+https://forum.rasa.com/t/cors-error-for-server-requests-solved/3815/9
+https://forum.rasa.com/t/cors-enable/18386
+https://rasa.com/docs/rasa/connectors/your-own-website/#restinput
+https://medium.com/analytics-vidhya/integrating-rasa-chatbot-with-django-web-framework-f6cb71c58467
+https://pypi.org/project/django-cors-headers/
+https://github.com/fanout/django-eventstream/issues/45
+https://pypi.org/project/django-cors-headers/
+https://stackoverflow.com/questions/28046422/django-cors-headers-not-work
+https://stackoverflow.com/questions/18322262/how-to-set-up-custom-middleware-in-django/32242074#32242074
+https://simpleisbetterthancomplex.com/tutorial/2016/07/18/how-to-create-a-custom-django-middleware.html
+https://stackoverflow.com/questions/43871637/no-access-control-allow-origin-header-is-present-on-the-requested-resource-whe
+https://stackoverflow.com/questions/36568923/cors-error-with-ajax-request
+https://stackoverflow.com/questions/55701367/rasa-bot-bad-request-and-cors-proxy-issue
+https://stackoverflow.com/questions/44744788/django-cors-headers-settings-py-django-app-not-working-even-though-ive-added-al
+https://stackoverflow.com/questions/67251117/cross-origin-resource-sharing-error-header-disallowed-by-preflight-response
+https://webbrowsertools.com/test-cors/
