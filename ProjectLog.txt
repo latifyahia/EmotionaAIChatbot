@@ -169,3 +169,7 @@ i ran the bot today to make sure it still working on the website but it turns ou
 mentioned of install django-cors-headers didnt work for me so i was lucky to find a soultion where another user was having the same problem. They ended up righting their own middle ware class for cors policy and posted it on stackoverflow which i took and put into my project.
 No shame in takening his code to fix my own issue because the normal way of installing django-cors-headers just wasnting working i dont know why. Anyways after writing the class and putting it in my django app i was still having the same problems. Turns out since i was using chrome,
 my cache was effecting cors policy so i opened up edge and tried it there and like magic it worked. I spent a good 2 hours on this issue but happy its resolved now
+
+03/05/2021
+Added alot more chatpaths and custom actions for rasa so the bot will be able to talk to the person dpeending on what emotions they first display. I also added material for the bot to use to cheer the user up. I still need to add more paths but im nearly done with it now. I also added user data to the profile page and also added 
+first name and last name to the regisiteration which i later pull djangos database and put in on the profile of the user logged in. I also added error checking so a user who is logged in cannot access the register page
