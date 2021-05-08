@@ -173,3 +173,6 @@ my cache was effecting cors policy so i opened up edge and tried it there and li
 03/05/2021
 Added alot more chatpaths and custom actions for rasa so the bot will be able to talk to the person dpeending on what emotions they first display. I also added material for the bot to use to cheer the user up. I still need to add more paths but im nearly done with it now. I also added user data to the profile page and also added 
 first name and last name to the regisiteration which i later pull djangos database and put in on the profile of the user logged in. I also added error checking so a user who is logged in cannot access the register page
+
+07/05/2021
+I finished off the about page and change around a few things nothing major tho
