@@ -517,3 +517,21 @@ https://atufashireen.medium.com/authenticate-users-in-django-login-logout-user-8
 https://stackoverflow.com/questions/18558636/redirect-if-already-logged-in-through-django-urls/18558770
 https://www.youtube.com/watch?v=ekyCxgtW3Js
 https://thispointer.com/python-how-to-get-first-n-characters-in-a-string/
+
+08/05/2021
+**finishing up rasa chat paths and fixing my custom actions server because my custom actions broke**
+https://github.com/RasaHQ/rasa/issues/3269
+https://forum.rasa.com/t/duplicate-messages-after-adding-delay-in-custom-function/27400
+https://www.guru99.com/python-time-sleep-delay.html
+https://stackoverflow.com/questions/510348/how-can-i-make-a-time-delay-in-python
+https://www.codegrepper.com/code-examples/python/How+to+delay+a+function+call+python
+https://www.gitmemory.com/issue/RasaHQ/rasa/3269/495778160
+https://forum.rasa.com/t/how-rasa-bots-can-handle-the-delay-in-getting-response/6356/9
+https://stackoverflow.com/questions/5136266/python-sleep-without-interfering-with-script
+https://stackoverflow.com/questions/55315674/python-3-6-asyncio-task-exception-was-never-retrieved-task-got-bad-yield-20
+https://forum.rasa.com/t/error-asyncio-task-exception-was-never-retrieve/15511/14
+https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/
+https://github.com/RasaHQ/rasa/issues/4606
+https://stackoverflow.com/questions/33505066/python3-asyncio-task-was-destroyed-but-it-is-pending-with-some-specific-condit
+https://stackoverflow.com/questions/57848494/encountering-error-running-custom-actions-in-rasa
+https://stackoverflow.com/questions/32572280/does-time-sleep-stop-all-executions
