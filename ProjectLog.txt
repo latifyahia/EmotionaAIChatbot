@@ -182,3 +182,6 @@ I finished off the about page and change around a few things nothing major tho
 i finished all the paths for rasa. The bot will always now try to cheer the user up if they arent happy. It will check for the emotion after trying to cheer them upto see if the bot was successful.
 If it isnt, it will try again. If again it didnt cheer them up it will send them link to articals on how to cheer up because the bot cannot go on forever, well it can, it takes more than 1 person to
 create such a bot, im basically finished my project just need to finish some things up. Im 99% there
+
+15/05/2021
+Just changing some spelling mistakes within RASA, and adding some finishing touches to the project to get it ready for AWS
